@@ -1,0 +1,1 @@
+Git ist ein kostenloses, verteiltes Versionskontrollsystem für Softwareprojekte, das in seiner ersten Version 2005 veröffentlicht wurde. Das Programm ermöglicht es mehreren Entwicklern, unabhängig von ihrem Aufenthaltsort gleichzeitig an einem Projekt zu arbeiten.
