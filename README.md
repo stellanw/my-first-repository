@@ -1,1 +1,11 @@
-Git ist ein kostenloses, verteiltes Versionskontrollsystem für Softwareprojekte, das in seiner ersten Version 2005 veröffentlicht wurde. Das Programm ermöglicht es mehreren Entwicklern, unabhängig von ihrem Aufenthaltsort gleichzeitig an einem Projekt zu arbeiten.
+## My first day on GitHub
+
+Today I learnded that version control is an **essential** part of my career as a _web developer_.
+
+Some keywords that I should remember for later are:
+- git
+- GitHub
+- version control
+- repository
+- commit
+- hash
